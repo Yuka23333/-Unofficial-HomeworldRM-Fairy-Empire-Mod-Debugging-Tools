@@ -1,0 +1,14 @@
+{
+  "1be5d977f1c488647e9048081dcefcf5167565aa41314458f243a8c74cff04bf": {
+    "version": "1.4.3.25",
+    "description": "Initial release with basic features."
+  },
+  "e7b451699d7e814ea1f2275c24361a60cd615e9f96db6255bc043045d9fe6663": {
+    "version": "1.4.3.00",
+    "description": "Added new functionalities and fixed bugs."
+  },
+  "hash3": {
+    "version": "2.0.0",
+    "description": "Major update with performance improvements."
+  }
+}
